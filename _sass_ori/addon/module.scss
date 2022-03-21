@@ -55,8 +55,8 @@
 }
 
 %link-hover {
-  color: var(--link-hover-color) !important;
-  border-bottom: 1px solid var(--link-hover-color);
+  color: #d2603a !important;
+  border-bottom: 1px solid #d2603a;
   text-decoration: none;
 }
 
@@ -70,10 +70,6 @@
 
 %clickable-transition {
   transition: color 0.35s ease-in-out;
-}
-
-%transition {
-  transition: 0.35s ease-in-out;
 }
 
 %no-cursor {
@@ -104,7 +100,7 @@
 }
 
 %sidebar-links {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(117, 117, 117, 0.9);
   user-select: none;
 }
 
